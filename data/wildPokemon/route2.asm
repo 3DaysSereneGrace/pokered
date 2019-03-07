@@ -8,6 +8,6 @@ Route2Mons:
 	db 8,CUBONE
 	db 8,POLIWAG
 	db 8,PSYDUCK
-	db 8,SLOWPOKE
-	db 8,SLOWPOKE
+	db 8,MANKEY
+	db 8,MACHOP
 	db $00
