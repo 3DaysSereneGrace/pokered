@@ -9,5 +9,5 @@ Route22Mons:
 	db 5,KOFFING
 	db 5,EKANS
 	db 5,MEOWTH
-	db 5,ABRA
+	db 5,MANKEY
 	db $00
