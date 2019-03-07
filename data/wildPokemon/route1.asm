@@ -6,8 +6,8 @@ Route1Mons:
 	db 2,RATTATA
 	db 2,PIDGEY
 	db 2,SPEAROW
-	db 2,NIDORANF
-	db 2,NIDORANM
+	db 2,NIDORAN_F
+	db 2,NIDORAN_M
 	db 2,JIGGLYPUFF
 	db 2,CLEFAIRY
 	db $00
