@@ -8,6 +8,6 @@ Route22Mons:
 	db 5,SQUIRTLE
 	db 5,KOFFING
 	db 5,EKANS
-	db 5,MEOWTH
-	db 5,MANKEY
+	db 5,SLOWPOKE
+	db 5,EEVEE
 	db $00
